@@ -50,5 +50,6 @@ t参数获取方式：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/eb56918a07cf41c19e987f262e1ac209.png)
 
 
+抓包教学：https://blog.csdn.net/m0_64910183/article/details/126534293 最好配合微信3.6版本使用
 
 如果实在不会搞的话，可以加下q群：**949504676**  里面有很多热心肠的大佬哦！
